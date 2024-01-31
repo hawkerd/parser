@@ -1,0 +1,4 @@
+(executable
+ (public_name beastmode_on)
+ (name main)
+ (libraries beastmode_on))
